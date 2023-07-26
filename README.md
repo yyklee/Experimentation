@@ -3,11 +3,11 @@
 ## A/B Testing Project
 
 **[Health Care App Message Optimization](https://github.com/yyklee/social-event-experimentation):**
-Given that the app users are primarily socially avoidant individuals, we recognize the importance of maximizing their participation rates. By incorporating different message types, we aim to influence their emotional state positively and create a more engaging and encouraging sign-up process. To achieve this goal, we decided to use experimentation to find out the optimal lay-out of the page by carefully crafting the messaging and event types presented on the sign-up page.
+The project's goal is to optimize the sign-up process for a health care app targeted at socially avoidant individuals. A/B testing is used to experiment with different message types and event presentations on the sign-up page to positively influence users' emotional state and improve participation rates.
 
 ## Statistics for Experiments
 **[Behavioral Experiments with R](https://github.com/yyklee/R-for-behavioral-experimentations):**
-R Syntax for behavioral science experiments I organized for RAs. It includes analytical methods such as linear & logistic regression, ANOVA, multi-level modeling and also how to test for assumptions and calculate effect size using R.
+I have organized R syntax for Research Assistants and to help perform various analytical methods, including linear and logistic regression, ANOVA, multi-level modeling, testing for assumptions, and calculating effect sizes.
 
 ## Blog Posts on Online Experiments & Causal Inferences
 - **Key Terms in Experimentations**
