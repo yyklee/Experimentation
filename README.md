@@ -5,8 +5,3 @@ The project's goal is to optimize the sign-up process for a health care app targ
 
 ## Project 2 - [Behavioral Experiments with R](https://github.com/yyklee/R-for-behavioral-experimentations)
 I have organized R syntax for Research Assistants and to help analyze various behavioral science experiments. It includes syntax for linear and logistic regression, ANOVA, multi-level modeling as well as methods to test for assumptions and calculate effect sizes.
-
-## Blog Posts on Online Experiments & Causal Inferences
-- Quasi Experimental Methods: Interrupted Time Series (ITS)
-- Quasi Experimental Methods: Geo Tests
-- Quasi Experimental Methods: Propensity Score Matching
